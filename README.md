@@ -1,4 +1,8 @@
-JDynamic : A tools transfer json to .NET Dynamic Object
+# JDynamic 
+A tools transfer json to .NET Dynamic Object
+
+[![install from nuget](http://img.shields.io/nuget/v/jDynamic.svg?style=flat-square)](https://www.nuget.org/packages/jDynamic)[![downloads](http://img.shields.io/nuget/dt/jDynamic.svg?style=flat-square)](https://www.nuget.org/packages/jDynamic)
+
 
 @chsword on Weibo.com
 linkedin
